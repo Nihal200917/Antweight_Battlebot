@@ -14,10 +14,10 @@ Weapon Type: Flipper
 - Shock Absorbent Body
 - High Traction Drivetrain
 
-### Current Status:
+### Current Status for Oblivion V1:
 - [x] Concept
-- [ ] CAD
-- [ ] Prototype
+- [x] CAD
+- [x] Prototype
 - [x] Electronics
 - [ ] Testing
 - [ ] Competition Ready
