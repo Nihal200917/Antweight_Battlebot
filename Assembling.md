@@ -25,3 +25,4 @@ Connect ESC Radio Input into reciever
 - Make lid out of plastic and make it so that it fits in the interior of the body
 - Buy more powerful motors 6V motors or beetleweight powerful motors and make a drivetrain instead of direct connection to wheels
 - Buy 2S - 3S bidirectional dual way motor
+- Making Mount for reciever is not necessary
