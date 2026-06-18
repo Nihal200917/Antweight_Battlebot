@@ -19,6 +19,6 @@ Weapon Type: Flipper
 - [x] CAD
 - [x] Prototype
 - [x] Electronics
-- [ ] Testing
+- [x] Testing
 - [ ] Competition Ready
 - [x] Structured Mounting Prototype
